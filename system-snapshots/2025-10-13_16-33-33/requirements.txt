@@ -1,0 +1,79 @@
+Adafruit-Blinka==8.66.2
+adafruit-circuitpython-bme280==2.6.29
+adafruit-circuitpython-busdevice==5.2.13
+adafruit-circuitpython-connectionmanager==3.1.5
+adafruit-circuitpython-requests==4.1.13
+adafruit-circuitpython-typing==1.12.2
+Adafruit-PlatformDetect==3.84.0
+Adafruit-PureIO==1.1.11
+anaconda-anon-usage @ file:///croot/anaconda-anon-usage_1753980465715/work
+anaconda-auth @ file:///croot/anaconda-cloud-auth-split_1747863793913/work
+anaconda-cli-base @ file:///croot/anaconda-cli-base_1741369453151/work
+annotated-types @ file:///work/perseverance-python-buildout/croot/annotated-types_1728407282600/work
+archspec @ file:///croot/archspec_1709217642129/work
+binho-host-adapter==0.1.6
+boltons @ file:///croot/boltons_1751383734872/work
+brotlicffi @ file:///croot/brotlicffi_1736182468590/work
+certifi @ file:///croot/certifi_1754570644157/work/certifi
+cffi @ file:///croot/cffi_1736182496610/work
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+click @ file:///croot/click_1754477937586/work
+colorama @ file:///work/perseverance-python-buildout/croot/colorama_1728408841455/work
+conda @ file:///croot/conda_1754469521525/work/conda-src
+conda-anaconda-telemetry @ file:///croot/conda-anaconda-telemetry_1755883788794/work
+conda-anaconda-tos @ file:///croot/conda-anaconda-tos_1755123320538/work
+conda-content-trust @ file:///work/perseverance-python-buildout/croot/conda-content-trust_1728507652179/work
+conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1745607008911/work/src
+conda-package-handling @ file:///croot/conda-package-handling_1731369021572/work
+conda_package_streaming @ file:///croot/conda-package-streaming_1751307508976/work
+cryptography @ file:///croot/cryptography_1753084578537/work
+distro @ file:///work/perseverance-python-buildout/croot/distro_1728480038109/work
+frozendict @ file:///work/perseverance-python-buildout/croot/frozendict_1728480246023/work
+idna @ file:///work/perseverance-python-buildout/croot/idna_1728406285595/work
+jaraco.classes @ file:///croot/jaraco.classes_1755516331512/work
+jaraco.context @ file:///io/perseverance-python-buildout/croot/jaraco.context_1729021258248/work
+jaraco.functools @ file:///croot/jaraco.functools_1740408124800/work
+jeepney @ file:///tmp/build/80754af9/jeepney_1627537048313/work
+jsonpatch @ file:///work/perseverance-python-buildout/croot/jsonpatch_1728480643704/work
+jsonpointer @ file:///croot/jsonpointer_1753788442273/work
+keyring @ file:///croot/keyring_1745484703682/work
+libmambapy @ file:///croot/mamba-split_1734469473285/work/libmambapy
+markdown-it-py @ file:///work/perseverance-python-buildout/croot/markdown-it-py_1728408399614/work
+mdurl @ file:///work/perseverance-python-buildout/croot/mdurl_1728407610863/work
+menuinst @ file:///croot/menuinst_1753464589852/work
+more-itertools @ file:///work/perseverance-python-buildout/croot/more-itertools_1728409069203/work
+packaging @ file:///croot/packaging_1753775360170/work
+pkce @ file:///work/perseverance-python-buildout/croot/pkce_1728408494154/work
+platformdirs @ file:///croot/platformdirs_1744273047827/work
+pluggy @ file:///croot/pluggy_1733169620750/work
+pycosat @ file:///croot/pycosat_1736868411880/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic @ file:///croot/pydantic_1750768273517/work
+pydantic-settings @ file:///io/buildout/croot/pydantic-settings_1735843227937/work
+pydantic_core @ file:///croot/pydantic-core_1750754738270/work
+pyftdi==0.57.1
+Pygments @ file:///croot/pygments_1744664115646/work
+PyJWT @ file:///io/buildout/croot/pyjwt_1739559070267/work
+pyserial==3.5
+PySocks @ file:///work/perseverance-python-buildout/croot/pysocks_1728406488267/work
+python-dotenv @ file:///croot/python-dotenv_1745610248810/work
+pyusb==1.3.1
+readchar @ file:///work/perseverance-python-buildout/croot/readchar_1728481801141/work
+requests @ file:///croot/requests_1750426335554/work
+rich @ file:///croot/rich_1732638988216/work
+ruamel.yaml @ file:///croot/ruamel.yaml_1745960308213/work
+ruamel.yaml.clib @ file:///croot/ruamel.yaml.clib_1745937156736/work
+SecretStorage @ file:///work/perseverance-python-buildout/croot/secretstorage_1728408095919/work
+semver @ file:///croot/semver_1736540747757/work
+setuptools==78.1.1
+shellingham @ file:///work/perseverance-python-buildout/croot/shellingham_1728414756203/work
+sysv_ipc==1.1.0
+tomli @ file:///croot/tomli_1753774592205/work
+tqdm @ file:///croot/tqdm_1738943461672/work
+truststore @ file:///croot/truststore_1753907178268/work
+typer @ file:///work/perseverance-python-buildout/croot/typer_1728482337744/work
+typing-inspection @ file:///croot/typing-inspection_1746023477458/work
+typing_extensions @ file:///croot/typing_extensions_1734714855955/work
+urllib3 @ file:///croot/urllib3_1750775465825/work
+wheel==0.45.1
+zstandard @ file:///croot/zstandard_1731356343166/work
