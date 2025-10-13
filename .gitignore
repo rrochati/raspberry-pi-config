@@ -1,0 +1,12 @@
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Log files (except our tracking logs)
+*.log
+!documentation/*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
