@@ -126,6 +126,15 @@ sudo dpkg-reconfigure locales
 ./scripts/capture-system-state.sh
 ```
 
+## Set Up Aliases (Optional)
+``bash
+# Add these lines to ~/.bashrc
+alias pi-snapshot='cd /home/pi/pi-config && ./scripts/capture-system-state.sh'
+alias pi-update='cd /home/pi/pi-config && ./scripts/quick-update.sh'
+alias pi-track='cd /home/pi/pi-config && ./scripts/track-install.sh'
+```
+
+
 ## Directory Structure
 
 - `system-snapshots/` - Timestamped system state captures
